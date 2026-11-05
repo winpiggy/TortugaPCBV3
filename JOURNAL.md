@@ -16,3 +16,4 @@ Hours: 1.5
 I think I finished my new schematic. For simplicity, I changed the LoRa module to a simple BLE based HM-10. I don’t really need telemetry, and with BLE I can still easily arm the rocket from 10-30 meters away. I assigned all of the footprints to each symbol. This was a bit tedious and I had to take a minute to research how to find the correct footprints within the KiCAD library and assign them. Next time I will work on starting the layout. 
 Hours: 1
 <img width="1911" height="1140" alt="image" src="https://github.com/user-attachments/assets/7bea0a3f-01ed-49e2-95a1-a75d58f581eb" />
+<img width="703" height="691" alt="image" src="https://github.com/user-attachments/assets/72221d1f-da58-44dc-bdbb-87b6a0807943" />
