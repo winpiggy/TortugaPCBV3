@@ -17,3 +17,15 @@ I think I finished my new schematic. For simplicity, I changed the LoRa module t
 Hours: 1
 <img width="1911" height="1140" alt="image" src="https://github.com/user-attachments/assets/7bea0a3f-01ed-49e2-95a1-a75d58f581eb" />
 <img width="703" height="691" alt="image" src="https://github.com/user-attachments/assets/72221d1f-da58-44dc-bdbb-87b6a0807943" />
+
+11/11/2026:
+
+Today was a big day where I worked on the PCB for like 3 hours. I just had to grind getting all the traces connected. I also created a ground plane in the second layer for all of my ground pins. I didn’t finish, but I made a ton of progress. A big issue that is still unresolved is that the necessary 3.3V line has to run past my Teensy 4.1 module, which blocks a bunch of data pins. I might have to redo the layout; I’m not sure yet. 
+Hours: 3
+
+11/12/20206:
+
+I finished the traces today. I kept the 3.3V line running past the Teensy, but I shifted it down, which ultimately let me route the wires through. I also organized the traces so they look much cleaner and neater. I also did the via stitching. 
+Hours: 2
+<img width="1221" height="487" alt="image" src="https://github.com/user-attachments/assets/f4c58869-bb42-4919-b94a-0ce4b84688ff" />
+
