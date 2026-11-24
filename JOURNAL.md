@@ -1,6 +1,6 @@
-Title: Tortuga
-Author: Cameron Emmert (@camemmert)
-Description: Tortuga is the avionics board powering my science fair project, a thrust-vector-controlled rocket, and it combines sensors, status indicators (LEDs and a buzzer), and a Teensy 4.1 that runs the calculations needed to keep the rocket stable.
+Title: Tortuga                                                                                                                                                                                                        
+Author: Cameron Emmert (@camemmert)                                                                                                                                                                                    
+Description: Tortuga is the avionics board powering my science fair project, a thrust-vector-controlled rocket, and it combines sensors, status indicators (LEDs and a buzzer), and a Teensy 4.1 that runs the calculations needed to keep the rocket stable.                                                                                                                                                                                
 Created On: 10/26/2026
 
 10/27/2026: Today I just laid out the basic components including the MOSFET, screw terminal for the e-match connection, and a couple resistors. The bulk of the work is done from my last iteration so I am just building off of it. I plan to add more safety features this time as well including reverse polarity protection and an arm switch for the MOSFET. I had to import the MOSFET symbol from SnapEDA but everything else was included in the KiCAD libraries. 
