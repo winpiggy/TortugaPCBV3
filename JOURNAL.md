@@ -1,4 +1,4 @@
-Title: Tortuga                                                                                                                                                                                                        
+Title: Tortuga PCB Board                                                                                                                                                                                                       
 Author: Cameron Emmert (@camemmert)                                                                                                                                                                                    
 Description: Tortuga is the avionics board powering my science fair project, a thrust-vector-controlled rocket, and it combines sensors, status indicators (LEDs and a buzzer), and a Teensy 4.1 that runs the calculations needed to keep the rocket stable.                                                                                                                                                                                
 Created On: 10/26/2026
