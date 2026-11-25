@@ -30,7 +30,20 @@ Hours: 3
 
 11/12/20206:
 
-I finished the traces today. I kept the 3.3V line running past the Teensy, but I shifted it down, which ultimately let me route the wires through. I also organized the traces so they look much cleaner and neater. I also did the via stitching. 
+I finished the traces today. I kept the 3.3V line running past the Teensy, but I shifted it down, which ultimately let me route the wires through. I also organized the traces so they look much cleaner and neater. I also did the via stitching.                                                                                                                                                                                         
 Hours: 2
 <img width="1221" height="487" alt="image" src="https://github.com/user-attachments/assets/f4c58869-bb42-4919-b94a-0ce4b84688ff" />
+
+11/14/2026:
+
+I fixed some issues with the power lines and had to move a couple of components to do this. The MPU6050 was cut off from power because of some data lines. Everything is looking pretty good, but I still need to make a CAD to double check clearance issues.         
+
+Hours: 1
+<img width="1206" height="476" alt="image" src="https://github.com/user-attachments/assets/7190970a-a517-44fd-b411-e8fb4779f0bc" />
+
+11/23/2026:
+
+Today I built the CAD model of my KiCad board. I had to import some components from SnapEDA and the rest were included. I did this mainly for clearance issues regarding the board itself and my AV bay CAD work. Things are looking pretty good for the moment, so I am just doing some last minute review before I send the model away to be printed.                                                                                                                                                                
+Hours: 1.5
+<img width="621" height="812" alt="image" src="https://github.com/user-attachments/assets/56102575-a8bc-4603-b469-9483ade5a118" />
 
